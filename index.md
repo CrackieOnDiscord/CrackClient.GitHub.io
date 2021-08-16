@@ -12,11 +12,8 @@ Note
 This client is developed by 1 person
 ```
 ### Crackware Client ###
-   
-   ```markdown
-   
-    for help go in [link](https://discord.gg/d8UZzvAWto) download and help
-    ```
+ 
+for help go in the <a href="https://discord.gg/d8UZzvAW">link Discord</a> to download and get help
     
 ### info
 ```
