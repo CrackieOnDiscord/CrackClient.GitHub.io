@@ -28,4 +28,4 @@ Syntax highlighted code block
     for help go in https://discord.gg/d8UZzvAW to download and help
 ### info
 
-**Info this is my first website so no hate please xd
+**Info this is my first website so no hate please thank you!**
