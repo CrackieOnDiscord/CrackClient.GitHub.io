@@ -2,11 +2,9 @@
 
 U can download Crackware on the source or https://discord.gg/d8UZzvAW
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Devs Of the website 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Crackie#0011
 
 ```markdown
 Syntax highlighted code block
@@ -28,4 +26,6 @@ Syntax highlighted code block
 
 ### Crackware Client
     for help go in https://discord.gg/d8UZzvAW to download and help
-### 
+### info
+
+**Info this is my first website so no hate please xd
