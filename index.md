@@ -4,7 +4,7 @@ U can download Crackware on the source or https://discord.gg/d8UZzvAW
 
 ## Devs Of the website 
 
-**Crackie#0011
+**Crackie#0011**
 
 ```markdown
 Syntax highlighted code block
