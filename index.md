@@ -7,7 +7,6 @@ U can download Crackware on the source or https://discord.gg/d8UZzvAW
 **Crackie#0011**
 
 ```markdown
-
 Note
 
 This client is developed by 1 person
@@ -17,5 +16,6 @@ This client is developed by 1 person
     for help go in https://discord.gg/d8UZzvAW to download and help
     
 ### info
-
+```
 **Info this is my first website so no hate please thank you!**
+```
