@@ -13,7 +13,7 @@ This client is developed by 1 person
 ```
 ### Crackware Client ###
  
-for help go in the <a href="https://discord.gg/d8UZzvAW">link Discord</a> to download and get help
+for help go in the <a href="https://discord.gg/d8UZzvAW">Discord</a> to download and get help
     
 ### info
 ```
