@@ -8,9 +8,9 @@ U can download Crackware on the source or https://discord.gg/d8UZzvAW
 
 ```markdown
 
-**Note
+Note
 
-This client is developed by 1 person**
+This client is developed by 1 person
 ```
 
 ### Crackware Client
